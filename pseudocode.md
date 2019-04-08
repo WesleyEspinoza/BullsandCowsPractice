@@ -12,13 +12,13 @@ if i got to max tried and the payer did not solve the problem
     
     print to the screen better luck next time!
     
-    print to the screen try again y n?
+    print to the screen try again yes or no?
     
-    if the players answer is y 
+    if the players answer is yes 
     
         restart the game
         
-    else if they say n
+    else if they say no
     
         exit the game
    
@@ -26,13 +26,13 @@ else
 
     print to the screen congrats! 
     
-    print to the screen Try again y n?
+    print to the screen Try again yes no?
     
-     if the players answer is y 
+     if the players answer is yes 
     
         restart the game
         
-    else if they say n
+    else if they say no
     
         exit the game
 
