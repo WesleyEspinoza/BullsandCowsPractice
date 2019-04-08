@@ -1,0 +1,8 @@
+Reset the current Game back to beginning.
+
+set the max tried to the original amount.
+
+for every guess the user takes add 1 to i until i has reached the Max tries
+    get a guess from the player
+    make a new line to make the game look clean.
+    
